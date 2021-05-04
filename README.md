@@ -4,6 +4,8 @@
 [Saul’s Investing Discussions](https://boards.fool.com/sauls-investing-discussions-120980.aspx?mid=34381924)
 
 ## Stock Exchange
+[NASDAQ](https://www.nasdaq.com/)
+
 [New York Stock Exchange](https://www.nyse.com/index)
 
 [OTCMarkets](https://www.otcmarkets.com/)
@@ -18,9 +20,9 @@
 ## Data Collation
 [Fintel](https://fintel.io/)
 
-[High Short Interest Stocks](https://www.highshortinterest.com/)
-
 [Earnings Whispers](https://www.earningswhispers.com/)
+
+[High Short Interest Stocks](https://www.highshortinterest.com/)
 
 ## Discussion
 [Stocktwits](https://stocktwits.com/)
@@ -32,6 +34,8 @@
 [Wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
 
 ## Trading Event
+[IPO Calendar](https://www.marketwatch.com/tools/ipo-calendar)
+
 [Trading Halts](https://www.nasdaqtrader.com/Trader.aspx?id=TradeHaltCodes)
 
 [NYSE Trading Halts](https://www.nyse.com/trade-halt-current)
