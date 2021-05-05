@@ -24,6 +24,8 @@
 
 [High Short Interest Stocks](https://www.highshortinterest.com/)
 
+[Insider Analysis](https://insider-analysis.com/)
+
 ## Discussion
 [Stocktwits](https://stocktwits.com/)
 
@@ -44,3 +46,10 @@
 
 ## Broker
 [Charles Schwab](https://www.schwab.com/)
+
+[TD Ameritrade](https://www.tdameritrade.com/)
+
+[Firstrade](https://www.firstrade.com/)
+
+## Day Trader
+[Topstep](https://www.topstep.com/)
