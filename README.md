@@ -18,6 +18,8 @@
 [finviz](https://finviz.com/)
 
 ## Data Collation
+[SEC](https://www.sec.gov/)
+
 [Fintel](https://fintel.io/)
 
 [Earnings Whispers](https://www.earningswhispers.com/)
