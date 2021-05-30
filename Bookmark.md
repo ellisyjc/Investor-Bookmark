@@ -56,3 +56,11 @@
 
 ## Day Trader
 [Topstep](https://www.topstep.com/)
+
+## Portfolio Tracker
+[Sharesight](https://www.sharesight.com/)
+
+## Asset Management Companies
+[Scion Asset Management](https://www.scionasset.com/)
+
+[Abdiel Capital](https://abdielcapital.com/)
