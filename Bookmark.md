@@ -16,6 +16,11 @@
 
 [finviz](https://finviz.com/)
 
+## Company Filings
+[SEC Forms List](https://www.sec.gov/forms)
+
+[SEC Company Search](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+
 ## Data Collation
 [SEC](https://www.sec.gov/)
 
