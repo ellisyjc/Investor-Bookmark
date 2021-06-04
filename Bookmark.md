@@ -69,3 +69,6 @@
 [Scion Asset Management](https://www.scionasset.com/)
 
 [Abdiel Capital](https://abdielcapital.com/)
+
+## Penny Stock
+[Can Mutual Funds Own Stocks Under $5?](https://www.nasdaq.com/articles/can-mutual-funds-own-stocks-under-5-2017-11-06)
