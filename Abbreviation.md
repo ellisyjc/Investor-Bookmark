@@ -1,6 +1,7 @@
 |Abbreviation|Word|
 |-|-|
 |AGM|Annual General Meeting|
+|BV|Book Value|
 |DD|Due Diligence|
 |MM|Market Maker|
 |SH|Strong Hold|
