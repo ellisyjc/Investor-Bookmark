@@ -1,6 +1,6 @@
 # Bookmark
 ## Investment Principles
-[Saul’s Investing Discussions](https://boards.fool.com/sauls-investing-discussions-120980.aspx?mid=34381924)
+[Saul’s Investing Discussions](https://boards.fool.com/sauls-investing-discussions-120980.aspx)
 
 ## Stock Exchange
 [NASDAQ](https://www.nasdaq.com/)
