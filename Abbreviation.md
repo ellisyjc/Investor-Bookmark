@@ -2,6 +2,7 @@
 |-|-|
 |AGM|Annual General Meeting|
 |BV|Book Value|
+|DCA|Dollar Cost Averaging|
 |DD|Due Diligence|
 |FOMO|Fear Of Missing Out|
 |LFG|Let's Fucking Go|
