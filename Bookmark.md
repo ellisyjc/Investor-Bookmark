@@ -70,5 +70,8 @@
 
 [Abdiel Capital](https://abdielcapital.com/)
 
+## Learning
+[Investopedia](https://www.investopedia.com/)
+
 ## Penny Stock
 [Can Mutual Funds Own Stocks Under $5?](https://www.nasdaq.com/articles/can-mutual-funds-own-stocks-under-5-2017-11-06)
