@@ -44,6 +44,8 @@
 ## Trading Event
 [IPO Calendar](https://www.marketwatch.com/tools/ipo-calendar)
 
+[Earnings Calendar](https://app.earningscalendar.io/)
+
 [Trading Halts](https://www.nasdaqtrader.com/Trader.aspx?id=TradeHaltCodes)
 
 [NYSE Trading Halts](https://www.nyse.com/trade-halt-current)
