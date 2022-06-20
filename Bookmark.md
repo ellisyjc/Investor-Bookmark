@@ -42,6 +42,8 @@
 [Wallstreetbets](https://www.reddit.com/r/wallstreetbets/)
 
 ## Trading Event
+[Holidays and Trading Hours](https://www.nyse.com/markets/hours-calendars)
+
 [IPO Calendar](https://www.marketwatch.com/tools/ipo-calendar)
 
 [Earnings Calendar](https://app.earningscalendar.io/)
